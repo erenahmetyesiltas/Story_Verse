@@ -1,0 +1,26 @@
+[33m14f9b67[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmain[m[33m, [m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m)[m Story and Branch functionalities have been added.
+[33m2607a22[m Revert "Contributor and author functions are tested successfully."
+[33m7f8b667[m Contributor and author functions are tested successfully.
+[33m09e04c2[m Contributor use case is added but it is not tested.
+[33m49bc311[m ChatBot keeps all the conversation for the session.
+[33m1ee4231[m ChatBot keeps all the conversation for the session.
+[33mae13b9a[m Merge remote-tracking branch 'origin/main'
+[33mbbbcb1b[m feat: :art: add uncountable mind-blowing features
+[33ma1809fd[m refactor: clean up project structure re-configure everything.
+[33m60e15f1[m Merge remote-tracking branch 'origin/main'
+[33m195d480[m Commited untracked files
+[33mea168cc[m Merge branch 'erenFeat'
+[33m537e208[m I added ResponseEntity to CRUD methods of Author. Also, there is a bug with birthdate!
+[33mccae62f[m[33m ([m[1;31morigin/erenFeat[m[33m)[m Use case for Author initialization is done. Some bugs maybe pop up in the future.
+[33mde9ddff[m Merge remote-tracking branch 'origin/main'
+[33mc1b2570[m feat: Implement authentication feature with login, registration, and user management
+[33mba87f00[m[33m ([m[1;32mchatgpt[m[33m)[m Merge remote-tracking branch 'origin/main'
+[33ma4a0018[m Merge remote-tracking branch 'origin/main'
+[33meb7006c[m[33m ([m[1;31morigin/securityFeat[m[33m)[m A property is changed.
+[33m9e403c3[m JWT entegration is added to the project.
+[33m93d7635[m Merge https://github.com/erenahmetyesiltas/storyVerse
+[33m605da4b[m Reaction entity is added.
+[33med7944a[m I added ResponseEntity to CRUD methods of Author. Also, there is a bug with birthdate!
+[33m7d74d17[m I added an AOP Logger to log all services. Also, I added a some CRUD methods.
+[33mabfb2de[m Entities and their relationships are created. Also 2 sample operations are added.
+[33m35fd86d[m Initial commit for storyverse.
