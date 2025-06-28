@@ -21,9 +21,9 @@ In this platform, there are 2 main roles which are **Author** and **Contributor*
 In this way, contributers can get assistment from the power of AI.
 
 Technical things:
---> **Security**: JWT is used for authentication and authorization. Spring Security is also used.
---> **AI**: OpenAI-API is used.
---> **Database**: Mysql is used. Also database migration is used when they are needed.
---> **Architecture**: N-Layer Architecture is preferred.
+1. **Security**: JWT is used for authentication and authorization. Spring Security is also used.
+2. **AI**: OpenAI-API is used.
+3. **Database**: Mysql is used. Also database migration is used when they are needed.
+4. **Architecture**: N-Layer Architecture is preferred.
 
 Currently, frontend is developing phase...
